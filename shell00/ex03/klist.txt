@@ -1,0 +1,8 @@
+Credentials cache: API:1ECE3AAB-271E-415B-A9B8-25539DB59155
+        Principal: xtonnell@42.FR
+
+  Issued                Expires             Flags    Principal
+Mar  9 09:19:05 2020  Mar 16 09:19:05 2020  FPRIA  krbtgt/42.FR@42.FR
+Mar  9 09:19:06 2020  Mar 16 09:19:05 2020  FPA    HTTP/student-storage-2.42.fr@42.FR
+
+
